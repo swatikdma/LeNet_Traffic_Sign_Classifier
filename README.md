@@ -42,3 +42,7 @@ The Project has following sections:
 * Preprocessing
 * Model Evaluation
 * Testing and Results
+
+[Test Dataset](https://drive.google.com/file/d/1dpX-A08Ea2v3XvtIJELcGUP0jZg1q5Ww/view?usp=sharing)
+
+[Train Dataset](https://drive.google.com/file/d/1Vki5tCk3LLT7QrYSYXtbEY3evQ8mmdaQ/view?usp=sharing)
